@@ -90,6 +90,7 @@ https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/wolandark/vimdict
+https://codeberg.org/mao-yining/vim-signify
 
 # Language Server Protocol
 
