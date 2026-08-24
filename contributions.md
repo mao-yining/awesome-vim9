@@ -89,8 +89,8 @@ https://github.com/bfrg/vim-jqplay
 https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
-https://github.com/wolandark/vimdict
 https://codeberg.org/mao-yining/vim-signify
+https://github.com/wolandark/vimdict
 
 # Language Server Protocol
 
@@ -160,11 +160,11 @@ https://github.com/nda-cunh/smear_cursor-vim
 https://github.com/Bakudankun/sqroller.vim
 https://github.com/noscript/taberian.vim
 https://github.com/mao-yining/undotree.vim
+https://github.com/utubo/vim-anypanel
 https://github.com/ubaldot/vim-extended-view
 https://github.com/kennypete/vim-popped
 https://github.com/mattn/vim-smear-cursor
 https://github.com/kennypete/vim9-winswap
-https://github.com/utubo/vim-anypanel
 
 # Vim Internal
 
