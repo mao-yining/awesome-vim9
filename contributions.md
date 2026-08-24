@@ -164,6 +164,7 @@ https://github.com/ubaldot/vim-extended-view
 https://github.com/kennypete/vim-popped
 https://github.com/mattn/vim-smear-cursor
 https://github.com/kennypete/vim9-winswap
+https://github.com/utubo/vim-anypanel
 
 # Vim Internal
 
