@@ -185,3 +185,4 @@ https://github.com/bennyyip/dot-vim
 https://codeberg.org/mao-yining/dotfile_vim
 https://github.com/64-bitman/vim-config
 https://github.com/ShayHill/vimfiles
+https://github.com/beamiter/vimrc/
